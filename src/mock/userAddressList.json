@@ -1,0 +1,25 @@
+[
+    {
+      "id": 533,
+      "userAddress": "昌平区北汽贾镇",
+      "userId": 2,
+      "provinceId": 1,
+      "consignee": "admin",
+      "phoneNum": "15545684575",
+      "isDefault": "0",
+      "regionId": 1,
+      "fullAddress": "背景昌平区北七家镇"
+    },
+    {
+        "id": 544,
+        "userAddress": "多少区桉树镇",
+        "userId": 2,
+        "provinceId": 1,
+        "consignee": "笑嘻嘻",
+        "phoneNum": "1548781213",
+        "isDefault": "1",
+        "regionId": 2,
+        "fullAddress": "北京荷塘镇"
+      }
+    
+]
